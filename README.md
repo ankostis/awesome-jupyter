@@ -40,6 +40,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 - [Rodeo](https://rodeo.yhat.com/) - Native Python IDE for Data Science.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
+- [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
 
 ## Collaboration/Education
 
